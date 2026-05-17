@@ -7,6 +7,9 @@ import json
 mplstyle.use('fast')
 
 #Basic plotting utility complete. Working on including all 15 surfaces.
+#Set random seed for reproducibility
+np.random.seed(42)
+
 
 # 11/22
 # 3/5/26:

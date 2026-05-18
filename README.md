@@ -9,4 +9,6 @@ RNA and DNA evolutionary tree spaces with a given number of current species (see
 
 [3] Vic Patrangenaru and Daniel Osborne (2026). Nonparametric Statistics on Stratified Spaces and Their Applications in Object Data Analysis, Chapman & Hall. ISBN9781138043138. 
 
+The dataset used in this work is from [this paper in Nature] (https://www.nature.com/articles/s41586-018-0030-5). The results in this work is fully reproducible using the random seed set in the main.py file, which only influenece the nonparametric bootsrap used to estimate the confidence intervals. 
 
+The relevant paper is in preparation. 
